@@ -16,8 +16,6 @@ Ich bin Subhan und wohne in Berlin. Derzeit lerne ich bei Tumo Berlin, einer inn
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&style=flat)
 
 ## Statistiken
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=racycham&show_icons=true&theme=radical)
 ![racycham's Stats](https://github-readme-stats.vercel.app/api?username=racycham&theme=react&show_icons=true&hide_border=true&count_private=true)
 ![racycham's Streak](https://github-readme-streak-stats.herokuapp.com/?user=racycham&theme=react&hide_border=true)
 ![racycham's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=racycham&theme=react&show_icons=true&hide_border=true&layout=compact)
