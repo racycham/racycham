@@ -18,6 +18,7 @@ Ich bin Subhan und wohne in Berlin. Derzeit lerne ich bei Tumo Berlin, einer inn
 ## Statistiken
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dein-username&show_icons=true&theme=radical)
+![racycham's Streak](https://github-readme-streak-stats.herokuapp.com/?user=racycham&theme=react&hide_border=true)
 
 ## Kontakt
 
